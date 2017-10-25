@@ -1,11 +1,11 @@
 # Site settings
 title: Deep Learning Book
 
-email: http://www.google.com/recaptcha/mailhide/d?k=01VGFgHbzB9mUn30upTo4_ag==&c=VM0g2kIqgOfF5g979Sz-FdqNfLvGaQVlNJtj_cL3uXA=
-url: "https://ilguyi.github.io"
-github_url: "https://github.com/ilguyi/dlbook"
-github_profile: "https://github.com/ilguyi"
-baseurl: "/dlbook"
+#email: http://www.google.com/recaptcha/mailhide/d?k=01VGFgHbzB9mUn30upTo4_ag==&c=VM0g2kIqgOfF5g979Sz-FdqNfLvGaQVlNJtj_cL3uXA=
+url: https://ilguyi.github.io
+github_url: 'https://github.com/ilguyi/dlbook'
+#github_profile: "https://github.com/ilguyi"
+baseurl: '/dlbook'
 
 exclude:
   - README.md
