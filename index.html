@@ -1,0 +1,83 @@
+---
+layout: default
+---
+<div class="row">
+  <div class="col-sm-12 col-md-6">
+    <div class="well-sm">
+      <h3>Introduction</h3>
+      <p>이 페이지는 Deep Learning Book(Goodfellow et. al. 2015)을 정리한 문서입니다. 관련 교재가 궁금하신 분들은 아래 버튼을 눌러 교재를 확인하시면 됩니다.</p>
+      <p>
+	      <a href="http://www.deeplearningbook.org" target="_blank">
+	        <button type="button" class="btn btn-success">교재정보</button>
+	      </a>
+      </p>
+      <p>
+	      <a href="http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9780262035613&orderClick=LAI&Kc=" target="_blank">
+	        <button type="button" class="btn btn-success">교보문고</button>
+	      </a>
+      </p>
+    </div>
+    
+    <div class="well-sm">
+      <h3>New Posts</h3>
+      <ul class="post-list">
+	      {% for post in site.posts limit:3 %}
+	      <li>
+	        <h4>
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+	        </h4>
+	        <p><span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span></p>
+	        {{ post.excerpt }}
+          <hr/>          
+	      </li>
+	      {% endfor %}
+      </ul>
+    </div>
+  </div>
+  
+  <div class="col-sm-12 col-md-6">
+    <div class="well-sm">
+      <h3>Chapter 0. Notation</h3>
+      <ul>
+        <li><a href="{{ site.baseurl }}/docs/chapter00/0">0. 프롤로그 (Prolog)</a></li>
+      </ul>
+    </div>
+    <div class="well-sm">
+      <h3>Chapter 1. Introduction</h3>
+      <ul>
+        <li><a href="{{ site.baseurl }}/docs/chapter01/0">0. 프롤로그 (Prolog)</a></li>
+      </ul>
+    </div>
+    <div class="well-sm">
+      <h3>Chapter 2. Linear Algebrea</h3>
+      <ul>
+        <li><a href="{{ site.baseurl }}/docs/chapter02/0">0. 프롤로그 (Prolog)</a></li>
+      </ul>
+    </div>
+
+    <div class="well-sm">
+      <h3>Chapter 3. Probabilty and Information Theory</h3>
+      <ul>
+        <li><a href="{{ site.baseurl }}/docs/chapter03/0">0. 프롤로그 (Prolog)</a></li>
+      </ul>
+    </div>
+
+    <div class="well-sm">
+      <h3>Chapter 4. Numerical Computation</h3>
+      <ul>
+        <li><a href="{{ site.baseurl }}/docs/chapter04/0">0. 프롤로그 (Prolog)</a></li>
+      </ul>
+    </div>
+
+    <div class="well-sm">
+      <h3>Chapter 5. Machine Learning Basics</h3>
+      <ul>
+        <li><a href="{{ site.baseurl }}/docs/chapter05/0">0. 프롤로그 (Prolog)</a></li>
+      </ul>
+    </div>
+
+  </div>
+</div>
+
+
+

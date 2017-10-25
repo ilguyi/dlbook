@@ -1,0 +1,23 @@
+# Site settings
+title: Deep Learning Book
+
+email: http://www.google.com/recaptcha/mailhide/d?k=01VGFgHbzB9mUn30upTo4_ag==&c=VM0g2kIqgOfF5g979Sz-FdqNfLvGaQVlNJtj_cL3uXA=
+url: "http://ilguyi.github.io"
+github_url: "http://github.com/ilguyi/dlbook"
+github_profile: "http://github.com/ilguyi"
+baseurl: "/dlbook"
+
+exclude:
+  - README.md
+  - _site
+  
+highlighter: rouge
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Plugins
+mathjax: true
+disqus_shortname: 'mindbox'
