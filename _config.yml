@@ -19,5 +19,5 @@ kramdown:
   syntax_highlighter: rouge
 
 # Plugins
-mathjax: true
+#mathjax: true
 disqus_shortname: 'mindbox'
