@@ -1,0 +1,10 @@
+# Ignore docs files
+_site
+.jekyll-metadata
+
+# OS or Editor folders
+.DS_Store
+Thumbs.db
+
+# sass
+.sass-cache
