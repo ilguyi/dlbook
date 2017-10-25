@@ -18,6 +18,15 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
+# Author/contact
+author:
+  name: Il Gu Yi
+  photo: '/public/ilguyi.png'
+  contact:
+    email: "http://www.google.com/recaptcha/mailhide/d?k=01VGFgHbzB9mUn30upTo4_ag==&c=VM0g2kIqgOfF5g979Sz-FdqNfLvGaQVlNJtj_cL3uXA="
+
+
+
 # Plugins
-#mathjax: true
+mathjax: true
 disqus_shortname: 'mindbox'
