@@ -8,7 +8,6 @@ topnav:
         group: Chapter. 1
         url: /docs/chapter01/0
   - title: I. Applied Math and Machine Learning Basics
-    disable: true
     items:
       - title: 2. Linear Algebra
         group: Chapter. 2
