@@ -8,7 +8,6 @@ topnav:
         group: Chapter. 1
         url: /docs/chapter01/0
   - title: I. Applied Math and Machine Learning Basics
-    disable: true
     items:
       - title: 2. Linear Algebra
         group: Chapter. 2
@@ -71,12 +70,6 @@ topnav:
         group: Chapter. 19
         url: /docs/chapter19/0
       - title: 20. Deep Generative Models
-        disable: true
         group: Chapter. 20
         url: /docs/chapter20/0
-
-#  - title: 20
-#    group: "Chapter. 20"
-#    disable: true
-#    url: /docs/chapter20/0
 
