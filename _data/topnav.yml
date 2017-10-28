@@ -8,11 +8,12 @@ topnav:
         group: Chapter. 1
         url: /docs/chapter01/0
   - title: I. Applied Math and Machine Learning Basics
+    disable: true
     items:
       - title: 2. Linear Algebra
         group: Chapter. 2
         url: /docs/chapter02/0
-      - title: 3. Probabilty and Information Theory
+      - title: 3. Probability and Information Theory
         group: Chapter. 3
         url: /docs/chapter03/0
       - title: 4. Numerical Computation
@@ -78,4 +79,4 @@ topnav:
 #    group: "Chapter. 20"
 #    disable: true
 #    url: /docs/chapter20/0
- 
+
