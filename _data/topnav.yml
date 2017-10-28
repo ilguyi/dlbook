@@ -2,74 +2,74 @@ topnav:
   - title: Introduction
     items:
       - title: 0. Notation
-        group: Chapter. 0
+        group: "Chapter. 0"
         url: /docs/chapter00/0
       - title: 1. Introduction
-        group: Chapter. 1
+        group: "Chapter. 1"
         url: /docs/chapter01/0
   - title: I. Applied Math and Machine Learning Basics
     items:
       - title: 2. Linear Algebra
-        group: Chapter. 2
+        group: "Chapter. 2"
         url: /docs/chapter02/0
       - title: 3. Probability and Information Theory
-        group: Chapter. 3
+        group: "Chapter. 3"
         url: /docs/chapter03/0
       - title: 4. Numerical Computation
-        group: Chapter. 4
+        group: "Chapter. 4"
         url: /docs/chapter04/0
       - title: 5. Machine Learning Basics
-        group: Chapter. 5
+        group: "Chapter. 5"
         url: /docs/chapter05/0
   - title: II. Deep Networks Modern Practices
     disable: true
     items:
       - title: 6. Deep Feedforward Networks
-        group: Chapter. 6
+        group: "Chapter. 6"
         url: /docs/chapter06/0
       - title: 7. Regularization for Dee Learning
-        group: Chapter. 7
+        group: "Chapter. 7"
         url: /docs/chapter07/0
       - title: 8. Optimization for Training Deep Models
-        group: Chapter. 8
+        group: "Chapter. 8"
         url: /docs/chapter08/0
       - title: 9. Convolutional Networks
-        group: Chapter. 9
+        group: "Chapter. 9"
         url: /docs/chapter09/0
       - title: 10. Sequence Modeling Recurrent and Recursive Nets
-        group: Chapter. 10
+        group: "Chapter. 10"
         url: /docs/chapter10/0
       - title: 11. Practical Methodology
-        group: Chapter. 11
+        group: "Chapter. 11"
         url: /docs/chapter11/0
       - title: 12. Applications
-        group: Chapter. 12
+        group: "Chapter. 12"
         url: /docs/chapter12/0
   - title: III. Deep Learning Research
     disable: true
     items:
       - title: 13. Linear Factor Models
-        group: Chapter. 13
+        group: "Chapter. 13"
         url: /docs/chapter13/0
       - title: 14. Autoencoders
-        group: Chapter. 14
+        group: "Chapter. 14"
         url: /docs/chapter14/0
       - title: 15. Representation Learning
-        group: Chapter. 15
+        group: "Chapter. 15"
         url: /docs/chapter15/0
       - title: 16. Structured Probabilistic Models for Deep Learning
-        group: Chapter. 16
+        group: "Chapter. 16"
         url: /docs/chapter16/0
       - title: 17. Monte Carlo Methods
-        group: Chapter. 17
+        group: "Chapter. 17"
         url: /docs/chapter17/0
       - title: 18. Confronting the Partition Function
-        group: Chapter. 18
+        group: "Chapter. 18"
         url: /docs/chapter18/0
       - title: 19. Approximate Inference
-        group: Chapter. 19
+        group: "Chapter. 19"
         url: /docs/chapter19/0
       - title: 20. Deep Generative Models
-        group: Chapter. 20
+        group: "Chapter. 20"
         url: /docs/chapter20/0
 
