@@ -22,7 +22,6 @@ topnav:
         group: "Chapter. 5"
         url: /docs/chapter05/0
   - title: II. Deep Networks Modern Practices
-    disable: true
     items:
       - title: 6. Deep Feedforward Networks
         group: "Chapter. 6"
@@ -46,7 +45,6 @@ topnav:
         group: "Chapter. 12"
         url: /docs/chapter12/0
   - title: III. Deep Learning Research
-    disable: true
     items:
       - title: 13. Linear Factor Models
         group: "Chapter. 13"
